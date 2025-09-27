@@ -70,5 +70,5 @@ print(perimeter(20)) # вывод: 80
 
 ## История изменений
 
-de82554 - M1kha1l0, Thu Sep 18 19:28:26 2025 +0300 : fixed description
-6017b92 - M1kha1l0, Thu Sep 18 18:57:33 2025 +0300 : description added
+fad1f2b - M1kha1l0, Sat Sep 27 11:19:09 2025 +0300 : documentation added
+f52a67d - M1kha1l0, Sat Sep 27 11:16:25 2025 +0300 : added description of functions
