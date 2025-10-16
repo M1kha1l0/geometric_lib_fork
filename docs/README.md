@@ -69,4 +69,5 @@ print(perimeter(20)) # вывод: 80
 ```
 
 ## История изменений
-
+3f58110 - M1kha1l0, Thu Oct 16 09:02:37 2025 +0300 : documentaion added
+074f65d - M1kha1l0, Thu Oct 16 08:59:21 2025 +0300 : descritpion added
