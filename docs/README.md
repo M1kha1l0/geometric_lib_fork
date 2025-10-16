@@ -9,4 +9,5 @@
 - Rectangle: P = 2a + 2b
 - Square: P = 4a
 
+more in documentation
 [[https://github.com/M1kha1l0/geometric_lib_fork/blob/new_future_488312/docs/documentation.md]]
